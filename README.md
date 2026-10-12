@@ -74,8 +74,6 @@ SQLの学習ノートは[こっち](https://github.com/SugiAki0926/sql_note?tab=
 - [Openskillレーティングの数理](https://github.com/SugiAki0926/statistical_note/blob/main/notes/bayes/note_bayes24/note_bayes24.ipynb)
 - [BoatraceRatingの数理](https://github.com/SugiAki0926/statistical_note/blob/main/notes/bayes/note_bayes25/note_bayes25.ipynb)
 
-
-
 ## 数値解析
 
 - [sprintf 関数のまとめ](https://SugiAki0926.github.io/statistical_note/notes/NumericalAnalysis/note_NumericalAnalysis00/note_NumericalAnalysis00.html)
